@@ -1,0 +1,45 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tags
+      - summary
+      - kind
+      - consumed
+      - description
+      - title
+      - type
+      - url
+    sort:
+      - property: type
+        direction: ASC
+  - type: table
+    name: Books
+    filters:
+      and:
+        - file.inFolder("recommendations/books/links")
+    order:
+      - file.name
+      - type
+      - url
+      - category
+      - tags
+      - summary
+  - type: table
+    name: Other-reads
+    filters:
+      and:
+        - file.inFolder("recommendations/other-reads/links")
+  - type: table
+    name: Media
+    filters:
+      and:
+        - file.inFolder("recommendations/media/links")
+    order:
+      - file.name
+      - tags
+      - title
+      - type
+      - creator
+      - summary
