@@ -5,7 +5,7 @@ date: 2026-03-16
 description: a work trip, a literary detour, and a city that made history feel close.
 ---
 
-i went to newcastle for work and unexpectedly had a weekend to spare. what followed was equal parts food trail, city walk, and quiet reflection.
+i went to newcastle for work and had a weekend to spare. what followed was equal parts food trail, city walk, and quiet reflection.
 
 ## good food, good city rhythm
 

@@ -5,6 +5,6 @@ date: 2026-03-16
 tag: economics, markets
 summary: live breaking economic news and indicators from 196 countries
 source: tool
-consumed: false
+consumed: true
 recommended: false
 ---

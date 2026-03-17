@@ -7,6 +7,6 @@ summary: print-on-demand books are ruining the amazon book buying experience
 source: blog
 note:
 thumbnail:
-consumed: false
+consumed: true
 recommended: false
 ---
