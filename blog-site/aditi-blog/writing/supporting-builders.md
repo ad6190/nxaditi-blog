@@ -2,53 +2,242 @@
 title: supporting the builders in our lives
 category: leadership
 date: 2026-03-21
-description: builders are taking on more than ever. they need us to show up differently.
+description: builders are taking on more than ever. we need to show up differently.
 ---
 
-the builders around you are different now.
+builders are taking on more than ever. we need to show up differently.
 
-they are managing multiple projects in parallel. not sequentially—*in parallel*. they are taking on ambitious goals or at least able to move between them faster than ever before. they are self-managing more, which means less friction but also less check-ins, less natural moments to pause. and all of that means they are carrying more cognitive load than they ever have.
+i've been noticing this more and more over the last year—both in the teams i work with and in my own life. the builders around us are not just busy. they are operating in a completely different mode.
 
-this is not a new problem dressed up in ai language. this is a genuinely different moment. the tools have changed what is possible, which has changed what is expected, which has changed what people are willing to attempt. and that cascades down into their lives—their families, their focus, their rest, their sense of risk.
+they are managing multiple threads in parallel. not sequentially—parallel.
+they are switching contexts faster than we used to think was reasonable.
+they are attempting things that would have felt unrealistic even two years ago.
 
-## the load is real
+a big part of this is the shift in tools. ai hasn't just made things faster—it has expanded what feels *possible*. and once something feels possible, it quietly becomes expected.
 
-if you spend time with builders right now, you will notice something: their mind is always partially elsewhere. not out of disrespect or distraction. simply because they are holding too many threads. different projects have different urgencies. different goals are at different stages. different risks are sitting in different contexts. keeping all of that organized is a full-time job on top of the actual full-time job.
+this is the part i think we are underestimating.
 
-some of this is exciting. the possibility space has genuinely expanded. builders are more capable now than they were two years ago. but capacity is not the same as sustainability. and we haven't yet built the cultural infrastructure to support it.
+---
 
-there is also something quieter happening. many builders were risk-averse before. or at least cautiously optimistic. now they are starting to move out of that mode. they are willing to take chances. they are starting to see possible futures that felt too far away before. and that shift—from safety to exploration—takes an emotional toll. it requires permission. it requires someone to say: *yes, this risk makes sense. i believe in you even if it fails.* most builders are not getting that.
+## the builders around you are different now
 
-## what leaders can do
+builders today are more self-directed than ever. fewer blockers, fewer dependencies, fewer reasons to wait. which sounds like progress—and it is—but it also means:
 
-**1. create gaps intentionally.** the modern builder does not have natural moments to breathe. so build them in. not meetings about preventing burnout. actual time. a friday afternoon where nothing happens. a week where the team moves slower. or most importantly: *listen for when someone is about to snap and help them create space before they do*. leaders who can read their builders' capacity before the builders themselves do are leaders who retain the best people.
+* fewer natural pauses
+* fewer check-ins
+* fewer moments where someone else says "this is enough for today"
 
-**2. separate outputs from outputs.** you can measure what gets built. what you cannot easily measure is the mental discipline it takes to build so much. celebrate both. when someone ships a feature, celebrate the feature. when someone figures out how to manage five projects without losing coherence, celebrate that too. recognition is not a luxury. it is how builders know they are seen.
+so they keep going.
 
-**3. normalize talking about the load.** builders are socialized to power through. asking for support feels like weakness. if you are a leader, your job is to break that norm in your team. not by forcing vulnerability but by naming it. "i know we are all holding more threads than we normally would. this is hard. if you need something from me, i need to hear about it." that sentence, said clearly and repeated, changes what people feel safe admitting.
+and over time, that turns into something else:
+a constant background load.
 
-## what families can do
+if you spend time with builders right now, you'll notice it. their attention is split—not because they are distracted, but because they are holding too many active threads:
 
-**1. understand that the load is not laziness or disinterest.** if a builder you love seems distant or unfocused at home, it is not necessarily disconnection. it is usually that their mind is partially elsewhere because it has to be. this is not an excuse for coldness. but it is context. if you understand the load, you can stop taking it personally.
+* different projects with different urgencies
+* ideas they want to try before the window closes
+* risks they are actively navigating
 
-**2. create rest that does not require decision-making.** builders with high cognitive load do not want to decide where to eat or what to do. they want to be led. prepare a meal. suggest a walk with no agenda. put on a movie they do not have to choose. rest is not a luxury feature—it is infrastructure. and some people can only rest if the environment is set up for them.
+organizing all of this is a full-time job on top of the actual full-time job.
 
-**3. ask specifically instead of generally.** "how was your day?" is a reasonable question. a builder with parallel projects will say "fine" and be telling the truth even if they are carrying enormous weight. instead ask: "what is worrying you the most right now?" or "what are you excited about?" or "what happened that you want to remember?" specific questions unlock specific thoughts. they also signal that you want to understand the detail, not just the headlines.
+i've felt this myself. you end a day having made progress—and still feel like you're carrying everything forward in your head.
+
+---
+
+## this is not just "more work"
+
+it's tempting to describe this as just increased workload. it's not.
+
+this is a shift in *how* work feels:
+
+* the ceiling has moved up
+* the pace has increased
+* the expectation of initiative has gone up
+
+and quietly, something else has changed—builders are taking more risks.
+
+people who were previously cautious are now experimenting.
+people who stayed within scope are now stretching it.
+people who would wait are now starting before they feel ready.
+
+this is exciting. but it's also emotionally expensive.
+
+because taking risk requires something most environments don't explicitly give:
+**permission.**
+
+someone to say:
+this might not work, and that's okay. i still back you.
+
+most builders are not hearing that enough.
+
+---
+
+## the part we're missing: sustainability
+
+builders today are more capable than ever.
+but capability is not the same as sustainability.
+
+we have better tools.
+we do not yet have better norms.
+
+and until we build those, the default outcome is predictable:
+people will stretch further than they should—and only realize it when they're already exhausted.
+
+---
+
+## what leaders can do (practically)
+
+**1. create gaps on purpose**
+there are no natural breaks anymore. so you have to manufacture them.
+
+* block "no-output" time (not disguised as planning)
+* slow a sprint intentionally instead of waiting for burnout
+* watch for early signals: shorter responses, slower decisions, irritability
+
+the best leaders i've seen recently are not reacting to burnout.
+they are *detecting load early*.
+
+---
+
+**2. recognize invisible work**
+we celebrate shipping. we don't celebrate *holding complexity*.
+
+but managing five parallel threads without dropping one is real work.
+
+say it out loud:
+
+* "that was a complex week—you handled it well"
+* "i know you're juggling a lot right now"
+
+this is not soft. this is how people know they are seen.
+
+---
+
+**3. normalize talking about capacity (not just output)**
+most builders won't volunteer that they're overwhelmed.
+
+so you have to open that door:
+
+* "what's feeling heavy right now?"
+* "what would you drop if you could?"
+* "are we trying to do too much in parallel?"
+
+say it regularly enough that it stops feeling exceptional.
+
+---
+
+## what families can do (in real terms)
+
+this part is often overlooked, but it matters just as much.
+
+**1. don't misread distance**
+when someone seems mentally elsewhere, it's often load—not disinterest.
+
+that doesn't make it ideal. but it changes how you respond to it.
+
+---
+
+**2. remove decisions to create rest**
+high-load builders don't want options. they want relief from choosing.
+
+* decide the plan
+* suggest the walk
+* pick the movie
+
+this is what rest looks like in practice.
+
+---
+
+**3. ask questions that match how their mind works now**
+"how was your day?" won't work.
+
+try:
+
+* "what's taking up the most space in your head?"
+* "what's something you're unsure about right now?"
+* "what felt like progress today?"
+
+specific questions meet them where they are.
+
+---
 
 ## what all of us can do
 
-**1. notice when someone is moving through risk.** builders who are taking chances—trying new things, building things they are not sure about, naming ambitions they kept quiet before—need witnesses. they need people who see that they are doing something harder than before. a text that says "i see you trying something new and i am rooting for you" is not small.
+**1. acknowledge risk when you see it**
+a lot of people are trying things they haven't said out loud before.
 
-**2. create space for failure talk.** we celebrate wins. we avoid failures. except most ambitious things have failures embedded in them. and builders need to be able to say "this did not work" or "i was wrong about this" or "i need to change direction" without feeling like they have lost status. if you can be someone who listens to failure stories without judgment, you are giving builders permission to take bigger risks.
+a simple message:
 
-**3. remember that builders are still humans.** this moment—where capability expands and workload expands with it—can feel like builders are superhuman. they are not. they are people who are working harder, taking on more, and trying to stay standing while the ground under them changes. they need us to see that. they need us to say: *i know this is hard. you are doing well. rest is okay. asking for help is okay.*
+> "i see you trying something new—i'm rooting for you"
 
-## the culture we need
+goes further than we think.
 
-supporting builders is not about individual acts of kindness. it is about a different kind of leadership—one that understands that the biggest risk right now is not that we will build too little, but that we will burn out the people building too fast to notice.
+---
 
-the best builders are not the ones who never rest. they are the ones who know how to rest deeply enough to keep going sustainably. and they cannot do that alone. they need leaders who read the room. they need families who create rest. they need communities that celebrate the work *and* celebrate the person doing the work.
+**2. make space for unfinished, imperfect conversations**
+not everything needs to be a win story.
 
-right now, somewhere, a builder you know is holding more than they have ever held before. they might be fine. or they might be closer to breaking than anyone realizes. and if you pay attention—if you ask the right questions, create the right spaces, normalize the right conversations—you can help tip the balance toward sustainable.
+be the person someone can say:
 
-that is what we need now. not more productivity. more humanity.
+* "this didn't work"
+* "i'm rethinking this"
+* "i don't know if this will land"
+
+without it becoming a judgment moment.
+
+---
+
+**3. remind builders they are still human**
+this sounds obvious, but in this moment—it isn't.
+
+when capability expands, expectations expand with it.
+and people start being treated like they can absorb infinite load.
+
+they can't.
+
+sometimes what helps most is simply hearing:
+
+* this is a lot
+* you're doing well
+* you can pause
+
+---
+
+## the culture we actually need
+
+the risk right now is not that we won't build enough.
+
+it's that we will burn out the people building—because they can do more than ever, and no one is telling them where to stop.
+
+the best builders i know are not the ones who push endlessly.
+they are the ones who know how to step back *before* it's forced on them.
+
+but they don't do that alone.
+
+they have:
+
+* leaders who notice early
+* people around them who create rest
+* environments where effort and uncertainty are both visible
+
+---
+
+somewhere around you, someone is holding more than they have before.
+
+they might look fine. they might even say they're fine.
+
+but if you pay attention—really pay attention—you'll start to see the signals.
+
+and small things start to matter:
+
+* asking one better question
+* creating one hour of real space
+* acknowledging one invisible effort
+
+we don't need more productivity right now.
+
+we need better support systems for the people making that productivity possible.
+
+more awareness.
+more permission.
+more humanity.
