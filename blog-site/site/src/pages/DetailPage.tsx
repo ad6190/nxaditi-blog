@@ -99,7 +99,7 @@ export default function DetailPage({
 
             <MarkdownRenderer content={content} />
             
-            <CommentSection title={entry.title} slug={entry.slug} />
+            <CommentSection />
           </article>
         </div>
       </div>
