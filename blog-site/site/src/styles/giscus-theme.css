@@ -1,19 +1,19 @@
-/* Giscus Theme - Zinc + Violet Design System */
+/* Giscus Theme - Light Theme */
 .giscus {
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 .giscus-frame {
   width: 100%;
-  border: 1px solid rgb(39, 39, 42); /* zinc-800 */
+  border: 1px solid #e5e5e5;
   border-radius: 0.75rem;
-  background-color: rgb(9, 9, 11); /* zinc-950 */
+  background-color: #ffffff;
 }
 
 /* Main container */
 .giscus-top-bar {
-  background-color: rgb(24, 24, 27); /* zinc-900 */
-  border-bottom: 1px solid rgb(39, 39, 42); /* zinc-800 */
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #e5e5e5;
 }
 
 /* Text colors */
@@ -24,34 +24,34 @@
 .giscus-frame p,
 .giscus-frame a,
 .giscus-frame button {
-  color: rgb(212, 212, 216); /* zinc-300 */
+  color: #737373;
 }
 
 .giscus-frame strong {
-  color: rgb(250, 250, 250); /* zinc-50 */
+  color: #0a0a0a;
 }
 
 .giscus-frame .giscus-comment-box textarea {
-  background-color: rgb(24, 24, 27); /* zinc-900 */
-  border: 1px solid rgb(39, 39, 42); /* zinc-800 */
-  color: rgb(212, 212, 216); /* zinc-300 */
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  color: #0a0a0a;
   font-family: inherit;
 }
 
 .giscus-frame .giscus-comment-box textarea::placeholder {
-  color: rgb(113, 113, 122); /* zinc-600 */
+  color: #a3a3a3;
 }
 
 .giscus-frame .giscus-comment-box textarea:focus {
-  border-color: rgb(168, 85, 247); /* violet-500 */
+  border-color: #0a0a0a;
   outline: none;
-  box-shadow: 0 0 0 2px rgba(168, 85, 247, 0.1);
+  box-shadow: 0 0 0 2px rgba(10, 10, 10, 0.1);
 }
 
 /* Buttons */
 .giscus-frame button[type="submit"] {
-  background-color: rgb(168, 85, 247); /* violet-500 */
-  color: rgb(250, 250, 250);
+  background-color: #0a0a0a;
+  color: #ffffff;
   border: none;
   border-radius: 0.375rem;
   font-weight: 600;
@@ -61,28 +61,28 @@
 }
 
 .giscus-frame button[type="submit"]:hover {
-  background-color: rgb(147, 51, 234); /* violet-600 */
+  background-color: #1a1a1a;
 }
 
 /* Comments */
 .giscus-frame .giscus-comment {
-  border: 1px solid rgb(39, 39, 42); /* zinc-800 */
+  border: 1px solid #e5e5e5;
   border-radius: 0.5rem;
-  background-color: rgb(24, 24, 27); /* zinc-900 */
+  background-color: #ffffff;
   margin-bottom: 1rem;
 }
 
 .giscus-frame .giscus-comment-header {
-  background-color: rgb(24, 24, 27); /* zinc-900 */
+  background-color: #f5f5f5;
 }
 
 .giscus-frame .giscus-comment-author {
-  color: rgb(250, 250, 250); /* zinc-50 */
+  color: #0a0a0a;
   font-weight: 600;
 }
 
 .giscus-frame .giscus-timestamp {
-  color: rgb(113, 113, 122); /* zinc-600 */
+  color: #a3a3a3;
   font-size: 0.875rem;
 }
 
@@ -90,8 +90,8 @@
 .giscus-frame .giscus-reactions-button,
 .giscus-frame button.giscus-btn {
   background-color: transparent;
-  border: 1px solid rgb(39, 39, 42); /* zinc-800 */
-  color: rgb(161, 161, 170); /* zinc-500 */
+  border: 1px solid #e5e5e5;
+  color: #737373;
   border-radius: 0.375rem;
   padding: 0.25rem 0.5rem;
   font-size: 0.875rem;
@@ -100,43 +100,42 @@
 
 .giscus-frame .giscus-reactions-button:hover,
 .giscus-frame button.giscus-btn:hover {
-  border-color: rgb(168, 85, 247); /* violet-500 */
-  color: rgb(168, 85, 247); /* violet-500 */
-  background-color: rgba(168, 85, 247, 0.05);
+  border-color: #0a0a0a;
+  color: #0a0a0a;
+  background-color: #f5f5f5;
 }
 
-/* Reaction options - hide negative ones, show only positive */
-.giscus-frame button[value="-1"],
-.giscus-frame button[aria-label*="Thumbs down"],
-.giscus-frame button[aria-label*="eyes"],
-.giscus-frame button[aria-label*="heart_eyes"],
-.giscus-frame button[aria-label*="tada"],
-.giscus-frame button[aria-label*="thinking"],
+/* Reaction options - highlight active ones */
+.giscus-frame button[value="1"],
+.giscus-frame button[aria-label*="Thumbs up"],
+.giscus-frame button[aria-label*="clap"],
+.giscus-frame button[aria-label*="hooray"],
+.giscus-frame button[aria-label*="heart"],
 .giscus-frame button[aria-label*="rocket"] {
-  background-color: rgba(168, 85, 247, 0.1);
-  border-color: rgb(168, 85, 247);
-  color: rgb(168, 85, 247); /* violet-400 */
+  background-color: #f5f5f5;
+  border-color: #0a0a0a;
+  color: #0a0a0a;
 }
 
 /* Links in comments */
 .giscus-frame .giscus-comment-box a,
 .giscus-frame .giscus-comment a {
-  color: rgb(168, 85, 247); /* violet-500 */
+  color: #0a0a0a;
   text-decoration: underline;
-  text-decoration-color: rgba(168, 85, 247, 0.3);
+  text-decoration-color: rgba(10, 10, 10, 0.3);
   transition: color 0.2s;
 }
 
 .giscus-frame .giscus-comment-box a:hover,
 .giscus-frame .giscus-comment a:hover {
-  color: rgb(196, 181, 253); /* violet-300 */
-  text-decoration-color: rgb(196, 181, 253);
+  color: #737373;
+  text-decoration-color: #737373;
 }
 
 /* Code blocks in comments */
 .giscus-frame .giscus-comment code {
-  background-color: rgb(39, 39, 42); /* zinc-800 */
-  color: rgb(196, 181, 253); /* violet-300 */
+  background-color: #f5f5f5;
+  color: #0a0a0a;
   border-radius: 0.25rem;
   padding: 0.125rem 0.375rem;
   font-family: "JetBrains Mono", monospace;
@@ -145,15 +144,15 @@
 
 /* Blockquotes */
 .giscus-frame .giscus-comment blockquote {
-  border-left: 4px solid rgb(168, 85, 247); /* violet-500 */
+  border-left: 4px solid #e5e5e5;
   margin: 1rem 0;
   padding-left: 1rem;
-  color: rgb(161, 161, 170); /* zinc-500 */
+  color: #737373;
 }
 
 /* Loading state */
 .giscus-frame .giscus-loading {
-  background-color: rgb(24, 24, 27); /* zinc-900 */
+  background-color: #f5f5f5;
 }
 
 /* Pagination and navigation */
@@ -162,18 +161,18 @@
 }
 
 .giscus-frame .giscus-pagination button {
-  background-color: rgb(39, 39, 42); /* zinc-800 */
-  border: 1px solid rgb(39, 39, 42);
-  color: rgb(212, 212, 216); /* zinc-300 */
+  background-color: #f5f5f5;
+  border: 1px solid #e5e5e5;
+  color: #0a0a0a;
   border-radius: 0.375rem;
   padding: 0.5rem 1rem;
   transition: all 0.2s;
 }
 
 .giscus-frame .giscus-pagination button:hover {
-  background-color: rgb(63, 63, 70); /* zinc-700 */
-  border-color: rgb(168, 85, 247); /* violet-500 */
-  color: rgb(168, 85, 247);
+  background-color: #e5e5e5;
+  border-color: #0a0a0a;
+  color: #0a0a0a;
 }
 
 /* Scrollbar styling */
@@ -183,14 +182,14 @@
 }
 
 .giscus-frame ::-webkit-scrollbar-track {
-  background: rgb(24, 24, 27); /* zinc-900 */
+  background: #f5f5f5;
 }
 
 .giscus-frame ::-webkit-scrollbar-thumb {
-  background: rgb(63, 63, 70); /* zinc-700 */
+  background: #d4d4d8;
   border-radius: 4px;
 }
 
 .giscus-frame ::-webkit-scrollbar-thumb:hover {
-  background: rgb(113, 113, 122); /* zinc-600 */
+  background: #a3a3a3;
 }
