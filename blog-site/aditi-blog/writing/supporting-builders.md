@@ -77,8 +77,10 @@ the risk isn't that we won't build enough. it's that we'll burn out the people b
 
 they can't do this alone. they need leaders who notice early, people who create rest, environments where effort shows and uncertainty is okay.
 
-somewhere around you, someone is holding more than they ever have. in 2026, that someone might be a colleague shifting into builder mode. a family member attempting something new. a friend managing more threads than before.
+somewhere around you, someone is holding more than they ever have. a colleague shifting into builder mode. a family member attempting something new. a friend managing more threads than before. a kid in school navigating competition. someone in college learning to move faster. anyone going through this transition or trying to keep up.
 
 if you pay attention, you'll see the signals. small things matter: one better question. one hour where nothing is expected. acknowledging what no one else noticed.
+
+it's not just about titles. it affects everybody.
 
 we don't need more productivity. we need better support systems for the people making it. more awareness. more permission. more humanity.
