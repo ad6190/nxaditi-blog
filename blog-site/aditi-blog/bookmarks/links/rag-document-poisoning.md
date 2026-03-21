@@ -7,4 +7,5 @@ summary: injecting three fabricated docs into a chromadb knowledge base, 95% att
 source: blog
 consumed: false
 recommended: false
+featured: true
 ---

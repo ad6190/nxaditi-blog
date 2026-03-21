@@ -7,4 +7,5 @@ summary: argument for building ai agents from primitives first, keeping control,
 source: newsletter
 consumed: false
 recommended: false
+featured: true
 ---

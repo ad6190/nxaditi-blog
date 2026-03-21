@@ -11,6 +11,7 @@ const NAV_ITEMS = [
   { label: "recommendations", path: "/recommendations" },
   { label: "writing", path: "/writing" },
   { label: "projects", path: "/projects" },
+  { label: "tools", path: "/tools" },
 ];
 
 export function Navigation() {

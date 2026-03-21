@@ -53,6 +53,8 @@ function deriveSection(relativePath) {
     const sub = parts.length > 1 ? parts[1] : null;
     return { section: "projects", subsection: sub === "links" ? null : sub };
   }
+  if (parts[0] === "tools")
+    return { section: "tools", subsection: null };
   if (parts[0] === "bookmarks")
     return { section: "bookmarks", subsection: null };
   if (parts[0] === "recommendations") {
@@ -112,6 +114,12 @@ function scanVault(dir, baseDir = VAULT_DIR) {
           typeof frontmatter.recommended === "boolean"
             ? frontmatter.recommended
             : null,
+        featured:
+          typeof frontmatter.featured === "boolean"
+            ? frontmatter.featured
+            : null,
+        notes: frontmatter.notes || null,
+        status: frontmatter.status || null,
         filePath: relativePath.replace(/\\/g, "/"),
         hasContent: content.trim().length > 0,
       });

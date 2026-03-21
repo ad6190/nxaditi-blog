@@ -18,6 +18,9 @@ export interface ContentEntry {
   source: string | null;
   consumed: boolean | null;
   recommended: boolean | null;
+  featured: boolean | null;
+  notes: string | null;
+  status: string | null;
   filePath: string;
   hasContent: boolean;
 }

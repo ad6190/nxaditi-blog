@@ -7,4 +7,5 @@ summary: empirical study finding cursor adoption boosts short-term velocity but 
 source: paper
 consumed: false
 recommended: false
+featured: true
 ---

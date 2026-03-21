@@ -7,4 +7,5 @@ summary: frames llm teams through distributed systems ideas to reason about team
 source: paper
 consumed: false
 recommended: false
+featured: true
 ---

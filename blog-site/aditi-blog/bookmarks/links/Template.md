@@ -9,4 +9,6 @@ note:
 thumbnail:
 consumed: false
 recommended: false
+featured: false
+notes:
 ---

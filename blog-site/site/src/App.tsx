@@ -9,6 +9,7 @@ const Writing = lazy(() => import("@/pages/Writing"));
 const Projects = lazy(() => import("@/pages/Projects"));
 const Bookmarks = lazy(() => import("@/pages/Bookmarks"));
 const Recommendations = lazy(() => import("@/pages/Recommendations"));
+const Tools = lazy(() => import("@/pages/Tools"));
 const DetailPage = lazy(() => import("@/pages/DetailPage"));
 
 function Loading() {
@@ -47,6 +48,17 @@ export default function App() {
                     section="projects"
                     backPath="/projects"
                     backLabel="Back to Projects"
+                  />
+                }
+              />
+              <Route path="tools" element={<Tools />} />
+              <Route
+                path="tools/:slug"
+                element={
+                  <DetailPage
+                    section="tools"
+                    backPath="/tools"
+                    backLabel="Back to Tools"
                   />
                 }
               />

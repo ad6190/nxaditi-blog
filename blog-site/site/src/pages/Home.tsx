@@ -64,20 +64,19 @@ export default function Home() {
                     bookmarks
                   </Link>{" "}
                   is updated weekly (articles, papers, books, and an
-                  embarrassing number of youtube videos about ai). new stuff
-                  sits in the inbox; once i've read it and made notes, it moves
-                  to the archive.
+                  embarrassing number of youtube videos about ai). the best
+                  ones each week are featured. new stuff sits in the inbox;
+                  once i've read it and made notes, it moves to the archive.
                 </p>
                 <p>
-                  the things that stick graduate to{" "}
                   <Link
                     to="/recommendations"
                     className="text-foreground underline underline-offset-4 hover:opacity-60"
                   >
                     recommendations
-                  </Link>
-                  . books, films, blogs, and other things i'd actually tell a
-                  friend about.
+                  </Link>{" "}
+                  is where i keep the things that hold up over time - books,
+                  films, and blogs i come back to.
                 </p>
                 <p>
                   most of my{" "}
@@ -99,6 +98,16 @@ export default function Home() {
                   </Link>{" "}
                   is where i track what i'm building. products, open source,
                   side experiments.
+                </p>
+                <p>
+                  <Link
+                    to="/tools"
+                    className="text-foreground underline underline-offset-4 hover:opacity-60"
+                  >
+                    tools
+                  </Link>{" "}
+                  is a catalog of things i've found that actually work - for
+                  ai, engineering, and building in general.
                 </p>
                 <p className="text-xs text-muted-foreground/50 pt-2">
                   runs on obsidian. deploys itself.

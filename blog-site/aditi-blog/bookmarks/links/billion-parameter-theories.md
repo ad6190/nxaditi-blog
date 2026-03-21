@@ -7,4 +7,5 @@ summary: complex systems might require theories too large for humans — neural 
 source: blog
 consumed: false
 recommended: false
+featured: true
 ---
