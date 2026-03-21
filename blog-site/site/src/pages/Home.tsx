@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { ArrowRight } from "lucide-react";
 import { motion } from "framer-motion";
 import { PageTransition } from "@/components/PageTransition";
+import { VisitorCounter } from "@/components/VisitorCounter";
 
 export default function Home() {
   return (
@@ -109,8 +110,10 @@ export default function Home() {
                   is a catalog of things i've found that actually work - for
                   ai, engineering, and building in general.
                 </p>
-                <p className="text-xs text-muted-foreground/50 pt-2">
-                  runs on obsidian. deploys itself.
+                <p className="text-xs text-muted-foreground/50 pt-2 flex items-center gap-2">
+                  <span>runs on obsidian. deploys itself.</span>
+                  <span className="text-muted-foreground/30">•</span>
+                  <VisitorCounter pageId="site-home" />
                 </p>
               </div>
             </motion.div>
