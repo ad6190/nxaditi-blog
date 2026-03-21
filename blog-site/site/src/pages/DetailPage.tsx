@@ -3,6 +3,7 @@ import { useParams, Link } from "react-router-dom";
 import { ArrowLeft } from "lucide-react";
 import { PageTransition } from "@/components/PageTransition";
 import { MarkdownRenderer } from "@/components/MarkdownRenderer";
+import { CommentSection } from "@/components/CommentSection";
 import {
   type ContentEntry,
   getManifest,
@@ -97,6 +98,8 @@ export default function DetailPage({
             </header>
 
             <MarkdownRenderer content={content} />
+            
+            <CommentSection title={entry.title} slug={entry.slug} />
           </article>
         </div>
       </div>
