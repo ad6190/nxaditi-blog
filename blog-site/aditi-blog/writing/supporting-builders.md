@@ -74,19 +74,17 @@ and until we build those, the default outcome is predictable. people will stretc
 
 ## what builders need to give themselves
 
-i'm going to be honest here. i have been incredibly fortunate. my work environment is supportive. my family gets it. my circumstances allow me space to breathe. but even with all of that, this is the place where i'm actually failing.
+here's where i'm actually failing. i have incredible support at work, at home, everywhere. but giving myself what i need? that's where i fall apart. and i think many builders are in the same place.
 
-and i think many builders are in the same place.
+it's easier to accept support from others than to give it to yourself.
 
-it's easier to accept support from others than to give it to yourself. leaders say take a break, you slow down. families create rest, you rest. but when it comes to the rituals and practices that only you can do for yourself, that's where discipline falls apart.
+**protect your health like a project deadline.** put the doctor visits on the calendar. the sleep targets. the walk. treat them with the urgency you give to everything else. you can't ship half-health and iterate later.
 
-**protect your health like it's a project deadline.** builders have learned to ship before they're ready. that's useful. but not for health. you can't ship half-health and iterate. put the doctor visits on the calendar. the sleep targets. the morning walk that isn't optional. treat it with the same urgency you give to everything else. then actually do it.
+**build rituals that bring you back to ground.** not expensive wellness. just the thing that quiets your mind. running. cooking. writing. whatever it is, do it consistently. build it as non-negotiable because you won't make time otherwise.
 
-**build rituals that bring you back to ground.** it doesn't have to be meditation or expensive wellness. it's the thing that quiets your mind. for some people it's running. for others it's cooking or writing. the point is doing it consistently, not when you have time. because you won't have time. build it as a non-negotiable.
+**listen to your internal voice.** builders are often perfectionists and hard on themselves. catch the mean thoughts. the mistakes aren't failures. the projects that didn't land aren't reflections of your worth. you're learning. tell yourself that like you'd tell it to someone you believe in.
 
-**listen to your own self-talk.** builders tend to be hard on themselves. especially the ones who got here by being perfectionist. your internal voice is often meaner than anyone else's. catch it. the mistakes you're making aren't failures. the projects that didn't land aren't reflections of your worth. you're learning. tell yourself that like you'd tell it to someone you believe in.
-
-**you can't be in overdrive forever.** the tools expanded what's possible. that doesn't mean you have to do all of it. some of the most sustainable builders i know have learned to say no. not to everything, but to enough things that they have margin. the ability to say no is not weakness. it's the thing that lets you say yes to the things that actually matter.
+**you can't be in overdrive forever.** the tools expanded what's possible. that doesn't mean you have to do all of it. some of the most sustainable builders say no to enough things that they have margin. the ability to say no isn't weakness. it's what lets you say yes to what matters.
 
 ## the culture we actually need
 
